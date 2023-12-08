@@ -1,0 +1,1 @@
+# adelaide-uni-timetable-exporter
